@@ -1,0 +1,4 @@
+/* resources/static/swagger-custom.css */
+input[type="text"], textarea {
+    width: 100% !important; /* 원하는 크기로 조절 */
+}
